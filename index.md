@@ -1,3 +1,8 @@
+---
+layout: post
+title: Joshua Marble
+---
+
 Joshua Marble
 ============
 
